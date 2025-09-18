@@ -1,4 +1,4 @@
 # python_projects
-it contains all my mini python projects
+it contains all my  python projects
 
 
