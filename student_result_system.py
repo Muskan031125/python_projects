@@ -2,6 +2,7 @@
 # Input multiple students
 # Store their marks
 # Compute average
+#oops python
 
 
 class Student:
@@ -32,5 +33,6 @@ for s in students:
         print(f"  Name:{s.name}")
         print(f" Average:{avg:.2f}")
         print(f" Result :{results}")
+
 
 
